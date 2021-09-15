@@ -1,4 +1,5 @@
-package br.edu.ifce.lp2.ecommercebook;
+
+package lp2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,3 +12,6 @@ public class ECommerceBookApplication {
 	}
 
 }
+
+/*Mongolcompass senha
+marlilsonlp2 4BtgFpi5OGyao9aN*/
